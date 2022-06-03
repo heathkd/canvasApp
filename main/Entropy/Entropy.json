@@ -1,0 +1,55 @@
+{
+  "ComponentIndexes": {
+    "Component1": 1
+  },
+  "ControlUniqueIds": {
+    "App": 1,
+    "Component1": 3,
+    "Label1": 5,
+    "Screen1": 4,
+    "Teams": 6
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "06/03/2022 22:21:32",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {
+    "69f1c21aba81429cb88a519325165154": 0
+  },
+  "OrderComponentTemplate": {
+    "69f1c21aba81429cb88a519325165154": 0
+  },
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {
+    "Microsoft_CoreControls_Label": 0
+  },
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Component1": 0,
+    "Label1": 0,
+    "Screen1": 0,
+    "Teams": 0
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0577621,
+    "ControlCount": {
+      "69f1c21aba81429cb88a519325165154": 1,
+      "hostControl": 1,
+      "Microsoft_CoreControls_Label": 1,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.502487,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
